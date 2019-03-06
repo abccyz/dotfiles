@@ -1,0 +1,482 @@
+Feb 14 09:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 09:49 : exception: Failed to open '/home/chaos/.config/mpd/state': No such file or directory
+Feb 14 09:49 : avahi: Service 'Music Player @ debian' successfully established.
+Feb 14 09:59 : client: [0] opened from 127.0.0.1:50350
+Feb 14 09:59 : update: added /岩崎琢 - Mr.Balloon.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Gatchadance.mp3
+Feb 14 09:59 : update: added /岩崎琢 - PAI PAI.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Tutu.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Love.mp3
+Feb 14 09:59 : update: added /Dave Rodgers - Space Boy.mp3
+Feb 14 09:59 : update: added /Akie秋绘 - Lemon（Cover：米津玄師）.mp3
+Feb 14 09:59 : update: added /まじ娘 - 心做し.mp3
+Feb 14 09:59 : update: added /Doctor Vox - Frontier.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3
+Feb 14 09:59 : update: added /岩崎琢 - Gotchaman~In the name of Love (Modern-Retro Remix).mp3
+Feb 14 09:59 : update: added /内田真礼 - INNOCENT NOTE.mp3
+Feb 14 09:59 : update: added /排骨教主 - 江山雪.mp3
+Feb 14 09:59 : update: added /東山奈央 - 初恋.mp3
+Feb 14 09:59 : update: added /Cyua - Blumenkranz.mp3
+Feb 14 09:59 : update: added /Jiaye - Tony Igy-Astronomia（Jiaye remix）.mp3
+Feb 14 09:59 : update: added /Feint,Veela - Vagrant.mp3
+Feb 14 09:59 : update: added /ツヅリ・ヅクリ - 運命の人.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Why I kissed him？.mp3
+Feb 14 09:59 : update: added /内田真礼 - INNOCENT NOTE (TV size).mp3
+Feb 14 09:59 : update: added /岩崎琢 - Gatcha Rock.mp3
+Feb 14 09:59 : update: added /ケラケラ - あとひとつ.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Kollision.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Hopeful Wings.mp3
+Feb 14 09:59 : update: added /Jeku,aori - ぱられループ を歌ってみた (Jeku remix).mp3
+Feb 14 09:59 : update: added /岩崎琢 - Fat guitar.mp3
+Feb 14 09:59 : update: added /Dave Rodgers - Beat of the Rising Sun.mp3
+Feb 14 09:59 : update: added /Syn Cole - Feel Good (Original Mix).mp3
+Feb 14 09:59 : update: added /Dave Rodgers - Lucky Man.mp3
+Feb 14 09:59 : update: added /排骨教主 - 牵丝戏.mp3
+Feb 14 09:59 : update: added /笠原由里 - Ziel der Hydra.mp3
+Feb 14 09:59 : update: added /Travis Cormier - Dream On.mp3
+Feb 14 09:59 : update: added /Madilyn Bailey - New Rules.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Gatcha Dabada.mp3
+Feb 14 09:59 : update: added /岩崎琢 - The core of Soul.mp3
+Feb 14 09:59 : update: added /夏川りみ - 长い间.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Firebird.mp3
+Feb 14 09:59 : update: added /WHITE ASH - Crowds.mp3
+Feb 14 09:59 : update: added /岩崎琢 - Phenex.mp3
+Feb 14 09:59 : update: added /OMFG - Hello.mp3
+Feb 14 09:59 : update: added /YoRHa - Weight of the World／the End of YoRHa.mp3
+Feb 14 09:59 : update: added /岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3
+Feb 14 09:59 : update: added /Prezioso & Marvin - The Riddle - Radio Edit.mp3
+Feb 14 09:59 : update: added /排骨教主 - 月光.mp3
+Feb 14 09:59 : update: added /高尾直樹 - GATCHAMAN Make my day.mp3
+Feb 14 09:59 : update: added /Panda Eyes,Teminite - Highscore.mp3
+Feb 14 09:59 : update: added /Dave Rodgers - Deja Vu.mp3
+Feb 14 09:59 : update: added /Lensko - Heaven.mp3
+Feb 14 09:59 : update: added /毛毛 - 奇迹再现.mp3
+Feb 14 09:59 : update: added /Saya - 失う.mp3
+Feb 14 09:59 : update: added /排骨教主,Payam1(黛米） - 【排骨xPayam1】东京不太热.mp3
+Feb 14 09:59 : update: added /笠原由里 - Un beau léopard violet.mp3
+Feb 14 09:59 : update: added /西瓜JUN,王胖子 - 牵丝戏.mp3
+Feb 14 09:59 : update: added /Dave Rodgers - The Race Is Over.mp3
+Feb 14 09:59 : exception: Failed to open /home/chaos/.config/mpd/playlists: No such file or directory
+Feb 14 10:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 10:00 : client: [0] closed
+Feb 14 10:00 : client: [1] opened from 127.0.0.1:50354
+Feb 14 10:04 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 14 10:04 : exception: Failed to open /home/chaos/.config/mpd/playlists: No such file or directory
+Feb 14 10:07 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 14 10:17 : player: played "排骨教主 - 月光.mp3"
+Feb 14 10:22 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 14 10:26 : player: played "岩崎琢 - Gatcha Rock.mp3"
+Feb 14 10:31 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 14 10:36 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modern-Retro Remix).mp3"
+Feb 14 10:37 : client: [1] closed
+Feb 14 10:37 : client: [2] opened from 127.0.0.1:50408
+Feb 14 10:40 : player: played "排骨教主 - 月光.mp3"
+Feb 14 10:45 : player: played "排骨教主 - 江山雪.mp3"
+Feb 14 10:49 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 14 10:52 : player: played "岩崎琢 - Gatcha Rock.mp3"
+Feb 14 10:52 : client: [2] closed
+Feb 14 10:52 : client: [3] opened from 127.0.0.1:50412
+Feb 14 10:57 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 14 11:00 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 14 11:03 : player: played "Saya - 失う.mp3"
+Feb 14 11:08 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 14 11:13 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modern-Retro Remix).mp3"
+Feb 14 11:17 : player: played "排骨教主 - 月光.mp3"
+Feb 14 11:21 : client: [3] closed
+Feb 14 11:21 : client: [4] opened from 127.0.0.1:50420
+Feb 14 11:25 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 14 11:28 : player: played "岩崎琢 - Gatcha Rock.mp3"
+Feb 14 11:29 : client: [4] closed
+Feb 14 11:29 : client: [5] opened from 127.0.0.1:50436
+Feb 14 11:32 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 14 11:35 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 14 11:39 : player: played "Saya - 失う.mp3"
+Feb 14 11:44 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 14 12:22 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modern-Retro Remix).mp3"
+Feb 14 12:26 : player: played "排骨教主 - 月光.mp3"
+Feb 14 12:34 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 14 13:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 13:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 13:59 : avahi: Service 'Music Player @ debian' successfully established.
+Feb 14 13:59 : client: [0] opened from 127.0.0.1:50482
+Feb 20 22:41 : exception: Failed to open '/home/chaos/.config/mpd/state': No such file or directory
+Feb 20 22:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 22:41 : exception: Failed to access /home/chaos/Music: No such file or directory
+Feb 20 22:41 : client: [0] opened from 127.0.0.1:59222
+Feb 20 22:41 : client: [0] closed
+Feb 20 23:20 : client: [1] opened from 127.0.0.1:60370
+Feb 20 23:20 : client: [1] closed
+Feb 20 23:21 : client: [2] opened from 127.0.0.1:60374
+Feb 20 23:21 : update: added /Akie秋绘 - Lemon（Cover：米津玄師）.mp3
+Feb 20 23:21 : exception: Failed to open /home/chaos/.config/mpd/playlists: No such file or directory
+Feb 20 23:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 23:23 : client: [2] closed
+Feb 20 23:23 : client: [3] opened from 127.0.0.1:60384
+Feb 20 23:23 : update: added /Doctor Vox - Frontier.mp3
+Feb 20 23:23 : update: added /Madilyn Bailey - New Rules.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Mr.Balloon.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Why I kissed him？.mp3
+Feb 20 23:23 : update: added /岩崎琢 - The core of Soul.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Love.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Kollision.mp3
+Feb 20 23:23 : update: added /Dave Rodgers - The Race Is Over.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Hopeful Wings.mp3
+Feb 20 23:23 : update: added /Dave Rodgers - Space Boy.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Fat guitar.mp3
+Feb 20 23:23 : update: updating /Akie秋绘 - Lemon（Cover：米津玄師）.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Tutu.mp3
+Feb 20 23:23 : update: added /Travis Cormier - Dream On.mp3
+Feb 20 23:23 : update: added /まじ娘 - 心做し.mp3
+Feb 20 23:23 : update: added /Dave Rodgers - Beat of the Rising Sun.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Gotchaman~In the name of Love (Modern-Retro Remix).mp3
+Feb 20 23:23 : update: added /YoRHa - Weight of the World／the End of YoRHa.mp3
+Feb 20 23:23 : update: added /Cyua - Blumenkranz.mp3
+Feb 20 23:23 : update: added /内田真礼 - INNOCENT NOTE (TV size).mp3
+Feb 20 23:23 : update: added /笠原由里 - Ziel der Hydra.mp3
+Feb 20 23:23 : update: added /Jeku,aori - ぱられループ を歌ってみた (Jeku remix).mp3
+Feb 20 23:23 : update: added /Dave Rodgers - Deja Vu.mp3
+Feb 20 23:23 : update: added /笠原由里 - Un beau léopard violet.mp3
+Feb 20 23:23 : update: added /Saya - 失う.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3
+Feb 20 23:23 : update: added /岩崎琢 - Firebird.mp3
+Feb 20 23:23 : update: added /Feint,Veela - Vagrant.mp3
+Feb 20 23:23 : update: added /西瓜JUN,王胖子 - 牵丝戏.mp3
+Feb 20 23:23 : update: added /高尾直樹 - GATCHAMAN Make my day.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Phenex.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Gatcha Dabada.mp3
+Feb 20 23:23 : update: added /Lensko - Heaven.mp3
+Feb 20 23:23 : update: added /岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3
+Feb 20 23:23 : update: added /WHITE ASH - Crowds.mp3
+Feb 20 23:23 : update: added /Syn Cole - Feel Good (Original Mix).mp3
+Feb 20 23:23 : update: added /岩崎琢 - Gatchadance.mp3
+Feb 20 23:23 : update: added /毛毛 - 奇迹再现.mp3
+Feb 20 23:23 : update: added /Panda Eyes,Teminite - Highscore.mp3
+Feb 20 23:23 : update: added /Jiaye - Tony Igy-Astronomia（Jiaye remix）.mp3
+Feb 20 23:23 : update: added /Prezioso & Marvin - The Riddle - Radio Edit.mp3
+Feb 20 23:23 : update: added /岩崎琢 - Gatcha Rock.mp3
+Feb 20 23:23 : update: added /岩崎琢 - PAI PAI.mp3
+Feb 20 23:23 : update: added /内田真礼 - INNOCENT NOTE.mp3
+Feb 20 23:23 : update: added /Dave Rodgers - Lucky Man.mp3
+Feb 20 23:23 : update: added /OMFG - Hello.mp3
+Feb 20 23:23 : exception: Failed to open /home/chaos/.config/mpd/playlists: No such file or directory
+Feb 20 23:30 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 20 23:35 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Feb 20 23:40 : player: played "高尾直樹 - GATCHAMAN Make my day.mp3"
+Feb 20 23:56 : client: [3] closed
+Feb 21 00:00 : player: played "内田真礼 - INNOCENT NOTE.mp3"
+Feb 21 09:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 09:13 : client: [0] opened from 127.0.0.1:33848
+Feb 21 09:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 09:14 : client: [0] closed
+Feb 21 09:17 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 21 09:18 : client: [1] opened from 127.0.0.1:33854
+Feb 21 09:22 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Feb 21 09:25 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 21 09:27 : client: [1] closed
+Feb 21 09:27 : client: [2] opened from 127.0.0.1:33858
+Feb 21 09:27 : player: played "岩崎琢 - Hopeful Wings.mp3"
+Feb 21 09:27 : client: [2] closed
+Feb 21 09:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 09:32 : client: [0] opened from 127.0.0.1:42184
+Feb 21 09:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 09:33 : client: [0] closed
+Feb 21 09:36 : player: played "高尾直樹 - GATCHAMAN Make my day.mp3"
+Feb 21 09:40 : player: played "岩崎琢 - Gatcha Rock.mp3"
+Feb 21 09:44 : player: played "内田真礼 - INNOCENT NOTE.mp3"
+Feb 21 09:47 : client: [1] opened from 127.0.0.1:42310
+Feb 21 09:51 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 21 09:52 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 21 09:52 : client: [1] closed
+Feb 21 11:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 11:06 : client: [0] opened from 127.0.0.1:52528
+Feb 21 11:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 11:08 : exception: Failed to open /home/chaos/.config/mpd/playlists: No such file or directory
+Feb 21 11:12 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 21 11:17 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 21 11:17 : client: [0] closed
+Feb 21 11:22 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 21 11:26 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Feb 21 11:29 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 21 11:33 : player: played "岩崎琢 - Hopeful Wings.mp3"
+Feb 21 11:36 : client: [1] opened from 127.0.0.1:52768
+Feb 21 11:36 : player: played "高尾直樹 - GATCHAMAN Make my day.mp3"
+Feb 21 11:36 : client: [1] closed
+Feb 21 13:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 13:25 : client: [0] opened from 127.0.0.1:51878
+Feb 21 13:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 13:26 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 21 13:26 : client: [0] closed
+Feb 21 16:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 16:37 : client: [0] opened from 127.0.0.1:54308
+Feb 21 16:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 16:40 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 21 16:44 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 21 16:50 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 21 16:53 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Feb 21 16:57 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 21 17:01 : player: played "岩崎琢 - Hopeful Wings.mp3"
+Feb 21 17:01 : player: played "高尾直樹 - GATCHAMAN Make my day.mp3"
+Feb 21 17:01 : client: [0] closed
+Feb 21 17:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 17:34 : client: [0] opened from 127.0.0.1:59588
+Feb 21 17:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 17:38 : player: played "高尾直樹 - GATCHAMAN Make my day.mp3"
+Feb 21 17:42 : player: played "岩崎琢 - Gatcha Rock.mp3"
+Feb 21 17:42 : client: [1] opened from 127.0.0.1:59594
+Feb 21 17:43 : client: [1] closed
+Feb 21 17:45 : player: played "内田真礼 - INNOCENT NOTE.mp3"
+Feb 21 17:47 : player: played "Feint,Veela - Vagrant.mp3"
+ALSA lib /portage/portage_tmp/portage/media-libs/alsa-lib-1.1.8/work/alsa-lib-1.1.8/src/pcm/pcm_dmix.c:1108:(snd_pcm_dmix_open) unable to open slave
+Feb 21 17:48 : exception: Failed to open "pcm" (alsa)
+Feb 21 17:48 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Feb 21 17:48 : exception: Failed to open "pcm" (alsa)
+Feb 21 17:48 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Feb 21 17:48 : player: problems opening audio device while playing "内田真礼 - INNOCENT NOTE.mp3"
+Feb 21 17:52 : player: played "Jeku,aori - ぱられループ を歌ってみた (Jeku remix).mp3"
+Feb 21 17:56 : player: played "Cyua - Blumenkranz.mp3"
+Feb 21 18:00 : player: played "Dave Rodgers - Beat of the Rising Sun.mp3"
+Feb 21 18:05 : player: played "Dave Rodgers - Space Boy.mp3"
+Feb 21 18:10 : player: played "Dave Rodgers - Lucky Man.mp3"
+Feb 21 18:15 : player: played "Dave Rodgers - The Race Is Over.mp3"
+Feb 21 18:22 : player: played "Prezioso & Marvin - The Riddle - Radio Edit.mp3"
+Feb 21 18:23 : client: [0] closed
+Feb 21 18:25 : player: played "Syn Cole - Feel Good (Original Mix).mp3"
+Feb 21 18:27 : player: played "Travis Cormier - Dream On.mp3"
+Feb 21 18:27 : client: [2] opened from 127.0.0.1:59668
+Feb 21 18:30 : player: played "WHITE ASH - Crowds.mp3"
+Feb 21 18:34 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Feb 21 18:36 : client: [2] closed
+Feb 21 18:38 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 21 18:42 : player: played "岩崎琢 - Hopeful Wings.mp3"
+Feb 21 18:45 : player: played "高尾直樹 - GATCHAMAN Make my day.mp3"
+Feb 21 18:49 : player: played "岩崎琢 - Gatcha Rock.mp3"
+Feb 21 18:53 : player: played "内田真礼 - INNOCENT NOTE.mp3"
+Feb 21 18:57 : player: played "Feint,Veela - Vagrant.mp3"
+Feb 21 19:02 : player: played "まじ娘 - 心做し.mp3"
+Feb 21 19:06 : player: played "西瓜JUN,王胖子 - 牵丝戏.mp3"
+Feb 21 19:09 : player: played "Saya - 失う.mp3"
+Feb 21 19:14 : player: played "Jeku,aori - ぱられループ を歌ってみた (Jeku remix).mp3"
+Feb 21 19:18 : player: played "Cyua - Blumenkranz.mp3"
+Feb 21 19:22 : player: played "Dave Rodgers - Beat of the Rising Sun.mp3"
+Feb 21 19:27 : player: played "Dave Rodgers - Space Boy.mp3"
+Feb 21 19:31 : player: played "Dave Rodgers - Lucky Man.mp3"
+Feb 21 19:37 : player: played "Dave Rodgers - The Race Is Over.mp3"
+Feb 21 19:42 : player: played "Doctor Vox - Frontier.mp3"
+Feb 21 19:46 : player: played "Jiaye - Tony Igy-Astronomia（Jiaye remix）.mp3"
+Feb 21 19:52 : player: played "Lensko - Heaven.mp3"
+Feb 21 19:55 : player: played "Madilyn Bailey - New Rules.mp3"
+Feb 21 19:59 : player: played "OMFG - Hello.mp3"
+Feb 21 20:03 : player: played "Panda Eyes,Teminite - Highscore.mp3"
+Feb 21 20:06 : player: played "Prezioso & Marvin - The Riddle - Radio Edit.mp3"
+Feb 21 20:09 : player: played "Syn Cole - Feel Good (Original Mix).mp3"
+Feb 21 20:11 : player: played "Travis Cormier - Dream On.mp3"
+Feb 21 20:14 : player: played "WHITE ASH - Crowds.mp3"
+Feb 21 20:20 : player: played "YoRHa - Weight of the World／the End of YoRHa.mp3"
+Feb 21 20:21 : player: played "内田真礼 - INNOCENT NOTE (TV size).mp3"
+Feb 21 20:25 : player: played "岩崎琢 - Fat guitar.mp3"
+Feb 21 20:26 : client: [3] opened from 127.0.0.1:59882
+Feb 21 20:29 : player: played "岩崎琢 - Tutu.mp3"
+Feb 21 20:32 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 21 20:36 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 21 20:41 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 21 20:45 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Feb 21 20:49 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 21 20:52 : player: played "岩崎琢 - Hopeful Wings.mp3"
+Feb 21 20:56 : player: played "高尾直樹 - GATCHAMAN Make my day.mp3"
+Feb 21 21:00 : player: played "岩崎琢 - Gatcha Rock.mp3"
+Feb 21 21:03 : player: played "内田真礼 - INNOCENT NOTE.mp3"
+Feb 21 21:06 : player: played "Feint,Veela - Vagrant.mp3"
+Feb 21 21:10 : client: [3] closed
+Feb 21 21:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 21:34 : client: [0] opened from 127.0.0.1:55968
+Feb 21 21:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 21:35 : client: [0] closed
+Feb 21 21:35 : client: [1] opened from 127.0.0.1:55972
+Feb 21 21:35 : player: played "まじ娘 - 心做し.mp3"
+Feb 21 21:35 : client: [1] closed
+Feb 22 09:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 09:20 : client: [0] opened from 127.0.0.1:46996
+Feb 22 09:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 09:20 : client: [0] closed
+Feb 22 09:24 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 22 09:29 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 22 09:33 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Feb 22 09:37 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 22 09:40 : player: played "岩崎琢 - Hopeful Wings.mp3"
+Feb 22 09:44 : player: played "高尾直樹 - GATCHAMAN Make my day.mp3"
+Feb 22 09:48 : player: played "岩崎琢 - Gatcha Rock.mp3"
+Feb 22 09:52 : player: played "内田真礼 - INNOCENT NOTE.mp3"
+Feb 22 09:56 : player: played "Feint,Veela - Vagrant.mp3"
+Feb 22 10:01 : player: played "まじ娘 - 心做し.mp3"
+Feb 22 10:05 : player: played "西瓜JUN,王胖子 - 牵丝戏.mp3"
+Feb 22 10:08 : player: played "Saya - 失う.mp3"
+Feb 22 10:13 : player: played "Jeku,aori - ぱられループ を歌ってみた (Jeku remix).mp3"
+Feb 22 10:17 : player: played "Cyua - Blumenkranz.mp3"
+Feb 22 10:21 : player: played "Dave Rodgers - Beat of the Rising Sun.mp3"
+Feb 22 10:26 : player: played "Dave Rodgers - Space Boy.mp3"
+Feb 22 10:30 : player: played "Dave Rodgers - Lucky Man.mp3"
+Feb 22 10:36 : player: played "Dave Rodgers - The Race Is Over.mp3"
+Feb 22 10:41 : player: played "Doctor Vox - Frontier.mp3"
+Feb 22 10:45 : player: played "Jiaye - Tony Igy-Astronomia（Jiaye remix）.mp3"
+Feb 22 10:51 : player: played "Lensko - Heaven.mp3"
+Feb 22 10:54 : player: played "Madilyn Bailey - New Rules.mp3"
+Feb 22 10:58 : player: played "OMFG - Hello.mp3"
+Feb 22 10:59 : client: [1] opened from 127.0.0.1:47290
+Feb 22 10:59 : player: played "Panda Eyes,Teminite - Highscore.mp3"
+Feb 22 11:11 : player: played "Prezioso & Marvin - The Riddle - Radio Edit.mp3"
+Feb 22 11:14 : player: played "Syn Cole - Feel Good (Original Mix).mp3"
+Feb 22 11:16 : player: played "Travis Cormier - Dream On.mp3"
+Feb 22 11:19 : player: played "Travis Cormier - Dream On.mp3"
+Feb 22 11:19 : update: added /ケラケラ - あとひとつ.mp3
+Feb 22 11:19 : update: added /排骨教主 - 江山雪.mp3
+Feb 22 11:19 : update: added /排骨教主 - 月光.mp3
+Feb 22 11:19 : update: added /排骨教主 - 牵丝戏.mp3
+Feb 22 11:19 : update: updating /笠原由里 - Ziel der Hydra.mp3
+Feb 22 11:19 : update: added /夏川りみ - 长い间.mp3
+Feb 22 11:19 : update: added /ツヅリ・ヅクリ - 運命の人.mp3
+Feb 22 11:19 : update: added /排骨教主,Payam1(黛米） - 【排骨xPayam1】东京不太热.mp3
+Feb 22 11:19 : update: added /東山奈央 - 初恋.mp3
+Feb 22 11:19 : exception: Failed to open /home/chaos/.config/mpd/playlists: No such file or directory
+Feb 22 11:20 : client: [1] closed
+Feb 22 11:25 : player: played "ケラケラ - あとひとつ.mp3"
+Feb 24 01:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 01:22 : client: [0] opened from 127.0.0.1:54516
+Feb 24 01:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 01:22 : client: [0] closed
+Feb 24 01:22 : client: [1] opened from 127.0.0.1:54520
+Feb 24 01:22 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 24 01:22 : client: [1] closed
+Feb 25 10:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 10:05 : client: [0] opened from 127.0.0.1:53014
+Feb 25 10:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 10:07 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 25 10:12 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 25 10:17 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 25 10:21 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Feb 25 10:24 : player: played "岩崎琢 - Gatchadance.mp3"
+Feb 25 10:28 : player: played "岩崎琢 - Hopeful Wings.mp3"
+Feb 25 10:32 : player: played "高尾直樹 - GATCHAMAN Make my day.mp3"
+Feb 25 10:35 : player: played "岩崎琢 - Gatcha Rock.mp3"
+Feb 25 10:39 : player: played "内田真礼 - INNOCENT NOTE.mp3"
+Feb 25 10:44 : player: played "Feint,Veela - Vagrant.mp3"
+Feb 25 10:48 : player: played "まじ娘 - 心做し.mp3"
+Feb 25 10:52 : player: played "西瓜JUN,王胖子 - 牵丝戏.mp3"
+Feb 25 10:56 : player: played "Saya - 失う.mp3"
+Feb 25 11:00 : player: played "Jeku,aori - ぱられループ を歌ってみた (Jeku remix).mp3"
+Feb 25 11:04 : player: played "Cyua - Blumenkranz.mp3"
+Feb 25 11:08 : player: played "Dave Rodgers - Beat of the Rising Sun.mp3"
+Feb 25 11:13 : player: played "Dave Rodgers - Space Boy.mp3"
+Feb 25 11:18 : player: played "Dave Rodgers - Lucky Man.mp3"
+Feb 25 11:23 : player: played "Dave Rodgers - The Race Is Over.mp3"
+Feb 25 11:28 : player: played "Doctor Vox - Frontier.mp3"
+Feb 25 11:32 : player: played "Jiaye - Tony Igy-Astronomia（Jiaye remix）.mp3"
+Feb 25 11:38 : player: played "Lensko - Heaven.mp3"
+Feb 25 11:41 : player: played "Madilyn Bailey - New Rules.mp3"
+Feb 25 11:45 : player: played "OMFG - Hello.mp3"
+Feb 25 11:49 : player: played "Panda Eyes,Teminite - Highscore.mp3"
+Feb 25 11:53 : player: played "Prezioso & Marvin - The Riddle - Radio Edit.mp3"
+Feb 25 11:56 : player: played "Syn Cole - Feel Good (Original Mix).mp3"
+Feb 25 11:58 : player: played "Travis Cormier - Dream On.mp3"
+Feb 25 12:01 : player: played "WHITE ASH - Crowds.mp3"
+Feb 25 12:06 : player: played "YoRHa - Weight of the World／the End of YoRHa.mp3"
+Feb 25 12:08 : player: played "内田真礼 - INNOCENT NOTE (TV size).mp3"
+Feb 25 12:11 : player: played "岩崎琢 - Fat guitar.mp3"
+Feb 25 12:14 : player: played "岩崎琢 - Firebird.mp3"
+Feb 25 12:17 : player: played "岩崎琢 - Gatcha Dabada.mp3"
+Feb 25 12:21 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modern-Retro Remix).mp3"
+Feb 25 12:25 : player: played "岩崎琢 - Kollision.mp3"
+Feb 25 12:29 : player: played "岩崎琢 - Love.mp3"
+Feb 25 12:32 : player: played "岩崎琢 - Mr.Balloon.mp3"
+Feb 25 12:34 : player: played "岩崎琢 - PAI PAI.mp3"
+Feb 25 12:37 : player: played "岩崎琢 - Phenex.mp3"
+Feb 25 12:40 : player: played "岩崎琢 - The core of Soul.mp3"
+Feb 25 12:43 : player: played "岩崎琢 - Tutu.mp3"
+Feb 25 12:46 : player: played "岩崎琢 - Why I kissed him？.mp3"
+Feb 25 12:50 : player: played "毛毛 - 奇迹再现.mp3"
+Feb 25 12:52 : player: played "笠原由里 - Un beau léopard violet.mp3"
+Feb 25 12:56 : player: played "笠原由里 - Ziel der Hydra.mp3"
+Feb 25 13:00 : player: played "ツヅリ・ヅクリ - 運命の人.mp3"
+Feb 25 13:06 : client: [1] opened from 127.0.0.1:54046
+Feb 25 13:14 : player: played "Jeku,aori - ぱられループ を歌ってみた (Jeku remix).mp3"
+Feb 25 13:16 : client: [0] closed
+Feb 25 13:19 : player: played "Cyua - Blumenkranz.mp3"
+Feb 25 13:23 : player: played "Dave Rodgers - Beat of the Rising Sun.mp3"
+Feb 25 13:28 : player: played "Dave Rodgers - Space Boy.mp3"
+Feb 25 13:37 : player: played "Dave Rodgers - The Race Is Over.mp3"
+Feb 25 13:43 : player: played "Doctor Vox - Frontier.mp3"
+Feb 25 13:51 : player: played "Lensko - Heaven.mp3"
+Feb 25 13:54 : player: played "Madilyn Bailey - New Rules.mp3"
+Feb 25 13:57 : player: played "OMFG - Hello.mp3"
+Feb 25 14:02 : player: played "Panda Eyes,Teminite - Highscore.mp3"
+Feb 25 14:05 : player: played "Prezioso & Marvin - The Riddle - Radio Edit.mp3"
+Feb 25 14:08 : player: played "Syn Cole - Feel Good (Original Mix).mp3"
+Feb 25 14:10 : player: played "Travis Cormier - Dream On.mp3"
+Feb 25 14:13 : player: played "WHITE ASH - Crowds.mp3"
+Feb 25 14:19 : player: played "YoRHa - Weight of the World／the End of YoRHa.mp3"
+Feb 25 14:20 : player: played "内田真礼 - INNOCENT NOTE (TV size).mp3"
+Feb 25 14:24 : player: played "岩崎琢 - Fat guitar.mp3"
+Feb 25 14:27 : player: played "岩崎琢 - Firebird.mp3"
+Feb 25 14:30 : player: played "岩崎琢 - Gatcha Dabada.mp3"
+Feb 25 14:34 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modern-Retro Remix).mp3"
+Feb 25 14:38 : player: played "岩崎琢 - Kollision.mp3"
+Feb 25 14:41 : player: played "岩崎琢 - Love.mp3"
+Feb 25 14:44 : player: played "岩崎琢 - Mr.Balloon.mp3"
+Feb 25 14:47 : player: played "岩崎琢 - PAI PAI.mp3"
+Feb 25 14:50 : player: played "岩崎琢 - Phenex.mp3"
+Feb 25 14:54 : player: played "Travis Cormier - Dream On.mp3"
+Feb 25 14:57 : player: played "WHITE ASH - Crowds.mp3"
+Feb 25 14:59 : player: played "内田真礼 - INNOCENT NOTE (TV size).mp3"
+Feb 25 15:03 : player: played "岩崎琢 - Fat guitar.mp3"
+Feb 25 15:06 : player: played "岩崎琢 - Firebird.mp3"
+Feb 25 15:08 : player: played "岩崎琢 - Gatcha Dabada.mp3"
+Feb 25 15:09 : client: [1] closed
+Feb 25 15:13 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modern-Retro Remix).mp3"
+Feb 25 15:16 : player: played "岩崎琢 - Kollision.mp3"
+Feb 25 15:20 : player: played "岩崎琢 - Love.mp3"
+Feb 25 15:23 : client: [2] opened from 127.0.0.1:55098
+Feb 25 15:23 : player: played "岩崎琢 - Mr.Balloon.mp3"
+Feb 25 15:23 : client: [2] closed
+Feb 26 13:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 13:18 : client: [0] opened from 127.0.0.1:56726
+Feb 26 13:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 13:21 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 26 13:25 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 26 13:30 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 26 13:32 : client: [0] closed
+Feb 26 13:32 : client: [1] opened from 127.0.0.1:56730
+Feb 26 13:35 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Feb 26 13:38 : client: [1] closed
+Feb 26 13:39 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 26 13:40 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 26 13:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 13:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 13:41 : client: [0] opened from 127.0.0.1:56766
+Feb 26 13:46 : player: played "Dave Rodgers - Deja Vu.mp3"
+Feb 26 13:46 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Feb 26 13:47 : player: played "Cyua - Blumenkranz.mp3"
+Feb 26 13:52 : client: [0] closed
+Feb 26 15:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 15:01 : client: [0] opened from 127.0.0.1:51988
+Feb 26 15:01 : client: [0] closed
+Feb 26 15:01 : client: [1] opened from 127.0.0.1:51992
+Feb 26 15:01 : client: [1] closed
+Feb 26 15:31 : client: [2] opened from 127.0.0.1:52106
+Feb 26 15:31 : client: [2] closed
+Mar 01 20:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 20:51 : client: [0] opened from 127.0.0.1:50908
+Mar 01 20:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 20:54 : player: played "Akie秋绘 - Lemon（Cover：米津玄師）.mp3"
+Mar 01 20:58 : player: played "Dave Rodgers - Deja Vu.mp3"
+Mar 01 21:03 : player: played "岩崎琢 - Gotchaman~In the name of Love (Modal Crowds Remix).mp3"
+Mar 01 21:07 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Mar 01 21:34 : client: [0] closed
+Mar 01 22:18 : client: [1] opened from 127.0.0.1:54046
+Mar 01 22:18 : exception: Failed to open /home/chaos/.config/mpd/playlists: No such file or directory
+Mar 01 22:18 : client: [1] closed
+Mar 01 22:18 : client: [2] opened from 127.0.0.1:54054
+Mar 01 22:18 : client: [2] closed
+Mar 01 22:22 : player: played "岩崎琢,岩崎工 - Gotchaman~In the name of Love.mp3"
+Mar 01 22:25 : player: played "岩崎琢 - Gatchadance.mp3"
+Mar 01 22:26 : client: [3] opened from 127.0.0.1:54392
+Mar 01 22:26 : player: played "岩崎琢 - Hopeful Wings.mp3"
+Mar 01 22:26 : client: [3] closed
