@@ -1,0 +1,218 @@
+# package.use# required by sys-auth/consolekit-1.2.1::gentoo
+# required by networkmanager (argument)
+>=net-wireless/wpa_supplicant-2.7-r1 dbus
+# required by www-client/chromium-73.0.3683.27::gentoo
+# required by www-client/chromium (argument)
+>=sys-libs/zlib-1.2.11-r2 minizip
+>=app-text/xmlto-0.0.28-r1 text
+# required by x11-libs/gtk+-3.24.5::gentoo
+# required by x11-themes/adwaita-icon-theme-3.30.1::gentoo
+# required by x11-libs/gtk+-2.24.32-r1::gentoo
+# required by x11-themes/gtk-engines-adwaita-3.28::gentoo
+>=x11-libs/cairo-1.16.0-r2 X
+# required by net-print/cups-filters-1.22.1::gentoo[postscript]
+# required by net-print/cups-2.2.10::gentoo
+# required by dev-java/icedtea-bin-3.10.0-r1::gentoo[-multilib,cups]
+# required by virtual/jdk-1.8.0-r4::gentoo
+# required by dev-java/icedtea-sound-1.0.1::gentoo
+>=app-text/ghostscript-gpl-9.26 cups
+# required by sys-kernel/genkernel-3.5.3.3::gentoo
+# required by sys-kernel/genkernel (argument)
+>=sys-apps/util-linux-2.33.1 static-libs
+# required by x11-drivers/nvidia-drivers-418.30::gentoo[tools]
+# required by x11-base/xorg-drivers-1.20::gentoo[video_cards_nvidia]
+# required by x11-base/xorg-server-1.20.3::gentoo[xorg]
+# required by x11-drivers/xf86-input-keyboard-1.9.0::gentoo
+>=x11-libs/gdk-pixbuf-2.36.12 X
+# required by x11-drivers/xf86-input-keyboard-1.9.0::gentoo
+# required by x11-drivers/xf86-input-keyboard-1.9.0::gentoo
+>=x11-libs/libvdpau-1.1.1 abi_x86_32
+# required by x11-drivers/xf86-input-keyboard-1.9.0::gentoo
+>=sys-libs/zlib-1.2.11-r2 abi_x86_32
+# required by x11-libs/libX11-1.6.7::gentoo
+# required by x11-libs/libxkbfile-1.0.9-r2::gentoo
+# required by x11-apps/xkbcomp-1.4.2::gentoo
+# required by x11-base/xorg-server-1.20.3::gentoo
+# required by x11-drivers/xf86-input-keyboard-1.9.0::gentoo
+# required by x11-base/xorg-drivers-1.20::gentoo[input_devices_keyboard]
+>=x11-libs/libxcb-1.13.1 abi_x86_32
+# required by x11-libs/libxcb-1.13.1::gentoo
+# required by x11-libs/libX11-1.6.7::gentoo
+# required by x11-libs/libxkbfile-1.0.9-r2::gentoo
+# required by x11-apps/xkbcomp-1.4.2::gentoo
+# required by x11-base/xorg-server-1.20.3::gentoo
+# required by x11-drivers/xf86-input-keyboard-1.9.0::gentoo
+# required by x11-base/xorg-drivers-1.20::gentoo[input_devices_keyboard]
+>=dev-libs/libpthread-stubs-0.4-r1 abi_x86_32
+# required by x11-base/xorg-drivers-1.20::gentoo[input_devices_keyboard]
+>=x11-libs/libXau-1.0.9 abi_x86_32
+# required by x11-libs/libxcb-1.13.1::gentoo
+# required by x11-libs/libX11-1.6.7::gentoo
+# required by x11-libs/libxkbfile-1.0.9-r2::gentoo
+# required by x11-apps/xkbcomp-1.4.2::gentoo
+# required by x11-base/xorg-server-1.20.3::gentoo
+# required by x11-drivers/xf86-input-keyboard-1.9.0::gentoo
+# required by x11-base/xorg-drivers-1.20::gentoo[input_devices_keyboard]
+>=x11-libs/libXdmcp-1.1.2-r2 abi_x86_32
+# required by x11-libs/libxcb-1.13.1::gentoo
+# required by x11-libs/libX11-1.6.7::gentoo
+# required by x11-libs/libxkbfile-1.0.9-r2::gentoo
+# required by x11-apps/xkbcomp-1.4.2::gentoo
+# required by x11-base/xorg-server-1.20.3::gentoo
+# required by x11-drivers/xf86-input-keyboard-1.9.0::gentoo
+# required by x11-base/xorg-drivers-1.20::gentoo[input_devices_keyboard]
+>=x11-base/xcb-proto-1.13 abi_x86_32
+# required by dev-qt/qtcore-5.11.3-r2::gentoo
+>=dev-libs/libpcre2-10.32 pcre16
+# required by x11-libs/libxkbcommon-0.8.3::gentoo[X]
+>=x11-libs/libxcb-1.13.1 xkb
+# required by dev-qt/qtgui-5.11.3::gentoo[xcb]
+>=x11-libs/libxkbcommon-0.8.3 X
+# required by sys-auth/polkit-0.115-r2::gentoo[-elogind,-systemd]
+# required by sys-auth/polkit-qt-0.112.0_p20160416-r2::gentoo
+>=sys-auth/consolekit-1.2.1 policykit
+# required by dev-lang/spidermonkey-52.9.1_pre1::gentoo
+# required by sys-auth/polkit-0.115-r2::gentoo
+# required by sys-auth/polkit-qt-0.112.0_p20160416-r2::gentoo
+>=dev-lang/python-2.7.15:2.7 sqlite
+# required by nm-applet (argument)
+>=app-crypt/gcr-3.28.1 gtk
+# required by gnome-base/gnome-keyring-3.28.2::gentoo
+# required by app-crypt/libsecret-0.18.7::gentoo
+# required by gnome-extra/nm-applet-1.8.20::gentoo
+# required by nm-applet (argument)
+>=app-crypt/pinentry-1.1.0-r3 gnome-keyring
+# required by x11-wm/i3-gaps-4.16::gentoo
+# required by x11-wm/i3-gaps (argument)
+>=x11-libs/cairo-1.16.0-r2 xcb
+# required by x11-misc/pcmanfm-1.2.5::gentoo
+# required by x11-misc/pcmanfm (argument)
+>=x11-libs/libfm-1.2.5 gtk
+# required by app-text/zathura-pdf-poppler-0.2.9::gentoo
+# required by app-text/zathura-meta-0::gentoo[pdf]
+# required by app-text/zathura-meta (argument)
+>=app-text/poppler-0.74.0 cairo
+# required by media-video/obs-studio-22.0.3::gentoo
+# required by obs-studio (argument)
+>=media-video/ffmpeg-4.1.1 x264
+# required by dev-texlive/texlive-xetex-2017::gentoo
+# required by texlive-xetex (argument)
+>=app-text/texlive-core-2017-r4 xetex
+
+>=net-misc/spice-gtk-0.35-r1 usbredir
+
+# required by app-text/llpp-30::gentoo
+# required by llpp (argument)
+>=dev-ml/lablgl-1.05-r1 glut
+# required by app-emulation/qemu-3.1.0-r2::gentoo[sdl]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libsdl2-2.0.9 X
+# required by dev-python/sqlalchemy-1.2.9::gentoo[python_targets_python3_6]
+# required by dev-python/sphinxcontrib-websupport-1.1.0::gentoo
+# required by dev-python/sphinx-1.7.5-r1::gentoo[-test]
+# required by sys-cluster/ceph-13.2.4::gentoo
+# required by app-emulation/qemu-3.1.0-r2::gentoo[rbd]
+# required by @selected
+# required by @world (argument)
+>=dev-lang/python-3.6.6:3.6 sqlite
+# required by app-emulation/libvirt-5.0.0::gentoo[parted]
+# required by @selected
+# required by @world (argument)
+>=sys-block/parted-3.2_p23 device-mapper
+# required by app-emulation/virtualbox-6.0.4-r1::gentoo[-headless]
+# required by app-emulation/libvirt-5.0.0::gentoo[virtualbox]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libsdl-1.2.15-r9 X
+# required by media-libs/mlt-6.12.0-r1::gentoo[sdl]
+>=media-libs/libsdl2-2.0.9 opengl
+>=virtual/ffmpeg-9-r2 X sdl
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+>=media-video/ffmpeg-4.1.1 X sdl
+# required by dev-python/pyzmq-17.1.0::gentoo
+# required by dev-python/jupyter_client-5.2.3::gentoo
+# required by dev-python/ipykernel-4.8.2::gentoo
+# required by dev-python/notebook-5.7.0::gentoo
+# required by dev-python/ipyparallel-6.0.2-r1::gentoo
+# required by dev-python/ipython-5.8.0-r1::gentoo[smp]
+# required by dev-python/netaddr-0.7.19::gentoo[cli]
+# required by app-admin/ansible-2.7.7::gentoo
+# required by ansible (argument)
+>=net-libs/zeromq-4.3.1 drafts
+# required by net-misc/nextcloud-client-2.5.1::gentoo
+# required by net-misc/nextcloud-client (argument)
+>=dev-qt/qtwebengine-5.11.3 widgets
+# required by dev-qt/qtwebengine-5.11.3::gentoo
+# required by net-misc/nextcloud-client-2.5.1::gentoo
+# required by net-misc/nextcloud-client (argument)
+>=dev-qt/qtwebchannel-5.11.3 qml
+# required by dev-qt/qtwebengine-5.11.3::gentoo
+# required by net-misc/nextcloud-client-2.5.1::gentoo
+# required by net-misc/nextcloud-client (argument)
+# required by dev-qt/qtwebengine-5.11.3::gentoo
+# required by net-misc/nextcloud-client-2.5.1::gentoo
+# required by net-misc/nextcloud-client (argument)
+# required by dev-qt/qtwebengine-5.11.3::gentoo
+# required by net-misc/nextcloud-client-2.5.1::gentoo
+# required by net-misc/nextcloud-client (argument)
+# required by sci-libs/scipy-1.1.0::gentoo
+# required by sci-libs/keras-preprocessing-1.0.9::gentoo
+# required by sci-libs/tensorflow-1.13.0_rc2::gentoo[python]
+# required by sci-libs/tensorflow-estimator-1.13.0_rc0::gentoo
+>=dev-python/numpy-1.15.4 lapack
+# required by dev-qt/qtwebengine-5.11.3::gentoo
+# required by qtwebengine (argument)
+>=media-libs/libvpx-1.8.0-r1 svc
+# required by x11-misc/primus-0.2::gentoo
+>=sys-apps/dbus-1.12.12-r1 X 
+>=app-i18n/fcitx-4.2.9.6:4 X gtk2 gtk3 autostart pango xml table
+>=media-libs/imlib2-1.5.1-r1 X jpeg png tiff
+# required by app-misc/neofetch-6.0.0::gentoo[X]
+# required by @selected
+# required by @world (argument)
+>=www-client/w3m-0.5.3_p20190105 imlib
+# required by app-emulation/libvirt-5.0.0::gentoo[virt-network]
+# required by @selected
+# required by @world (argument)
+>=net-dns/dnsmasq-2.80 script
+>=media-libs/mlt-6.12.0-r1 sdl qt5 xml ffmpeg frei0r  melt
+# required by media-gfx/krita-4.1.7-r1::gentoo[pdf]
+# required by media-gfx/krita (argument)
+>=app-text/poppler-0.74.0 qt5
+# required by media-gfx/inkscape-0.92.4::gentoo[latex]
+# required by media-gfx/inkscape (argument)
+>=media-gfx/pstoedit-3.70-r1 plotutils
+# required by media-video/aegisub-3.2.2_p20160518-r2::gentoo
+# required by media-video/aegisub (argument)
+>=x11-libs/wxGTK-3.0.4-r1:3.0 opengl
+# required by media-video/aegisub-3.2.2_p20160518-r2::gentoo
+# required by media-video/aegisub (argument)
+>=dev-lang/luajit-2.0.5-r1 lua52compat
+# required by app-admin/conky-1.10.8-r5::gentoo[nvidia,X]
+# required by app-admin/conky (argument)
+>=media-sound/mpd-0.21.5 alsa -bzip2 cue -curl dbus eventfd ffmpeg fifo icu id3tag inotify -ipv6 -mad -network pulseaudio tcpd udisks unicode zlib -adplug -ao -audiofile -cdio -chromaprint -debug -expat -faad -flac -fluidsynth -gme -jack -lame -libav -libmpdclient -libsamplerate -libsoxr -mikmod -mms -modplug -mpg123 -musepack -nfs -openal -opus -oss -pipe -qobuz -recorder -samba (-selinux) -sid -signalfd -sndfile -soundcloud sqlite -systemd -test -tidal -twolame -upnp -vorbis -wavpack -webdav -wildmidi -zeroconf -zip
+# required by app-text/calibre-3.38.1::gentoo
+# required by app-text/calibre (argument)
+>=dev-python/PyQt5-5.12_pre1812231618 svg gui network webkit printsupport widgets
+# required by media-gfx/gimp-2.10.8-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/gegl-0.4.14 cairo
+# required by x11-libs/libXext-1.3.4::gentoo
+# required by x11-libs/libvdpau-1.2::gentoo[dri]
+# required by @preserved-rebuild (argument)
+>=x11-libs/libX11-1.6.7 abi_x86_32
+# required by x11-libs/libvdpau-1.2::gentoo[dri]
+# required by @preserved-rebuild (argument)
+>=x11-libs/libXext-1.3.4 abi_x86_32
+
+>=app-emulation/virt-manager-2.0.0 gtk sasl
+
+>=app-emulation/qemu-3.1.0-r3 aio alsa bzip2 caps -curl fdt filecaps -jpeg ncurses nls pin-upstream-blobs png pulseaudio python seccomp vhost-net vnc xattr -accessibility -capstone -debug -glusterfs -gnutls -gtk -infiniband -iscsi -lzo -nfs -numa -opengl* -rbd -sasl -sdl (-selinux) -smartcard -snappy spice -ssh* (-static) -static-user -systemtap -tci -test -usb -usbredir -vde -virgl* -virtfs -vte -xen -xfs
+
+>=app-emulation/libvirt-5.1.0 caps dbus libvirtd macvtap nls policykit qemu udev vepa -apparmor -audit -firewalld -fuse -glusterfs -iscsi -iscsi-direct -libssh -lvm -lxc -nfs -numa (-openvz) -parted -pcap -phyp -rbd sasl (-selinux) virt-network -virtualbox wireshark-plugins -xen -zeroconf -zfs
+# required by app-emulation/virt-manager-2.0.0::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=net-misc/spice-gtk-0.35-r1 sasl
