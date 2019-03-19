@@ -26,7 +26,7 @@ gaps inner 15
 set $mod Mod4
 
 # 全局字体
-font pango:Ubuntu Mono Bold 12
+font pango:Ubuntu Mono Bold 14
 # font pango:Noto Sans CJK SC 12
 
 # 使用Mod键+鼠标拖拽悬浮窗口
@@ -40,7 +40,6 @@ bindsym $mod+Shift+q kill
 
 # 运行Rofi快速运行软件，当然你也可以用dmenu，但是Rofi更好看呀 （逃
 bindsym $mod+d exec --no-startup-id rofi -show run -display-run ""
-
 # 移动焦点窗口
 bindsym $mod+j focus left
 bindsym $mod+k focus down
@@ -93,16 +92,16 @@ bindsym $mod+a focus parent
 
 #工作区名称
 
-set $ws1 1 Terminal
-set $ws2 2 Chromium
-set $ws3 3 Code
-set $ws4 4 Chat
-set $ws5 5 File
-set $ws6 6 Media
-set $ws7 7 Download
-set $ws8 8 Game
-set $ws9 9 Mail
-set $ws0 0 Home
+set $ws1 1 
+set $ws2 2 
+set $ws3 3 
+set $ws4 4 
+set $ws5 5 
+set $ws6 6 
+set $ws7 7 
+set $ws8 8 
+set $ws9 9 
+set $ws0 0 
 
 #切换工作区
 bindsym $mod+1 workspace $ws1
@@ -134,7 +133,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 #退出动作
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m '收摊啦？' -b '退出' 'i3-msg exit' -b '关机' 'sudo shutdown -h now' -b '重启' 'sudo reboot'"
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m '完事了？' -b '退出' 'i3-msg exit' -b '关机' 'sudo shutdown -h now' -b '重启' 'sudo reboot'"
 
 bindsym mod1+l exec lock
 
@@ -181,7 +180,7 @@ bar {
 #	想让bar透明可以去掉下面一行的注释，不过托盘可能显示不完美
 #	i3bar_command i3bar -t
 #	status_command i3status
-	font pango:Ubuntu Mono Bold 9
+	font pango:Ubuntu Mono Bold 10
 	strip_workspace_numbers yes
 	separator_symbol "/"
 #	非i3-gaps请删除下面这一行
@@ -228,9 +227,9 @@ exec --no-startup-id flameshot
 #exec --no-startup-id gnome-keyring-daemon --start
 #exec --no-startup-id teamviewer
 exec --no-startup-id nm-applet
-exec_always --no-startup-id feh --randomize --no-fehbg --bg-scale ~/Pictures/*
+exec --no-startup-id feh -Z --bg-fill ~/Pictures/blade.jpg
 #exec --no-startup-id alacritty
-
+#exec --no-startup-id start_conky_maia
 #exec --no-startup-id sleep 3 && nextcloud
 #exec --no-startup-id keepassxc
 #exec --no-startup-id Telegram
